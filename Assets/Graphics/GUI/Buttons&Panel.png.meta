@@ -1,0 +1,4615 @@
+fileFormatVersion: 2
+guid: 3d0e2064b44ee104588cb5a16a89b792
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4746039218184796084
+    second: Buttons&Panel_0
+  - first:
+      213: 3742554260162854636
+    second: Buttons&Panel_1
+  - first:
+      213: 2890264295209629389
+    second: Buttons&Panel_2
+  - first:
+      213: -489134088942576775
+    second: Buttons&Panel_3
+  - first:
+      213: -4722470275990116560
+    second: Buttons&Panel_4
+  - first:
+      213: 5230841400229117141
+    second: Buttons&Panel_5
+  - first:
+      213: 2579919287467469555
+    second: Buttons&Panel_6
+  - first:
+      213: 6347760246948225672
+    second: Buttons&Panel_7
+  - first:
+      213: 3981793225211112987
+    second: Buttons&Panel_8
+  - first:
+      213: 3562969219389613576
+    second: Buttons&Panel_9
+  - first:
+      213: -9162178337815183984
+    second: Buttons&Panel_10
+  - first:
+      213: -3978808089806930516
+    second: Buttons&Panel_11
+  - first:
+      213: -7357223006647632833
+    second: Buttons&Panel_12
+  - first:
+      213: 8869843700594363867
+    second: Buttons&Panel_13
+  - first:
+      213: -2327824989883248499
+    second: Buttons&Panel_14
+  - first:
+      213: -3066461719189231679
+    second: Buttons&Panel_15
+  - first:
+      213: -8599684794339346090
+    second: Buttons&Panel_16
+  - first:
+      213: 2619206588169711354
+    second: Buttons&Panel_17
+  - first:
+      213: 7853205804217690332
+    second: Buttons&Panel_18
+  - first:
+      213: -6079141861505095089
+    second: Buttons&Panel_19
+  - first:
+      213: -2406583067308449376
+    second: Buttons&Panel_20
+  - first:
+      213: 3649022331326668420
+    second: Buttons&Panel_21
+  - first:
+      213: -1604643135879300476
+    second: Buttons&Panel_22
+  - first:
+      213: -5846983752451800854
+    second: Buttons&Panel_23
+  - first:
+      213: 1228774977699893149
+    second: Buttons&Panel_24
+  - first:
+      213: -224144285397575386
+    second: Buttons&Panel_25
+  - first:
+      213: -1360822758373518609
+    second: Buttons&Panel_26
+  - first:
+      213: 2874509681501768847
+    second: Buttons&Panel_27
+  - first:
+      213: 8830142492307653133
+    second: Buttons&Panel_28
+  - first:
+      213: -3895370138049811041
+    second: Buttons&Panel_29
+  - first:
+      213: 9099695794252226000
+    second: Buttons&Panel_30
+  - first:
+      213: -7016054864090417505
+    second: Buttons&Panel_31
+  - first:
+      213: 350355556543290436
+    second: Buttons&Panel_32
+  - first:
+      213: -2004308705165986074
+    second: Buttons&Panel_33
+  - first:
+      213: 8721294435421843898
+    second: Buttons&Panel_34
+  - first:
+      213: 7666221458879825345
+    second: Buttons&Panel_35
+  - first:
+      213: 7413484107387407113
+    second: Buttons&Panel_36
+  - first:
+      213: 8485134354823667971
+    second: Buttons&Panel_37
+  - first:
+      213: -2631456175570732914
+    second: Buttons&Panel_38
+  - first:
+      213: -188076585017445952
+    second: Buttons&Panel_39
+  - first:
+      213: -1020596136219425101
+    second: Buttons&Panel_40
+  - first:
+      213: -5228152850637427507
+    second: Buttons&Panel_41
+  - first:
+      213: -5843814148975575103
+    second: Buttons&Panel_42
+  - first:
+      213: -7785613205333830453
+    second: Buttons&Panel_43
+  - first:
+      213: 6475958764650602262
+    second: Buttons&Panel_44
+  - first:
+      213: 1782864737170297790
+    second: Buttons&Panel_45
+  - first:
+      213: -1376075031998740396
+    second: Buttons&Panel_46
+  - first:
+      213: 4021241314669215508
+    second: Buttons&Panel_47
+  - first:
+      213: -7702660297344158244
+    second: Buttons&Panel_48
+  - first:
+      213: -8693961968246587716
+    second: Buttons&Panel_49
+  - first:
+      213: -4418759006201086711
+    second: Buttons&Panel_50
+  - first:
+      213: 648451719703138884
+    second: Buttons&Panel_51
+  - first:
+      213: 7002703233574071043
+    second: Buttons&Panel_52
+  - first:
+      213: 2637618555669542002
+    second: Buttons&Panel_53
+  - first:
+      213: 494262715667923131
+    second: Buttons&Panel_54
+  - first:
+      213: -5455893114423325602
+    second: Buttons&Panel_55
+  - first:
+      213: -7408615999109381925
+    second: Buttons&Panel_56
+  - first:
+      213: -8739334342589320611
+    second: Buttons&Panel_57
+  - first:
+      213: 4793874071845749643
+    second: Buttons&Panel_58
+  - first:
+      213: -271239501983259059
+    second: Buttons&Panel_59
+  - first:
+      213: 6363668856552345263
+    second: Buttons&Panel_60
+  - first:
+      213: -4173217162709645656
+    second: Buttons&Panel_61
+  - first:
+      213: -1463657596190632056
+    second: Buttons&Panel_62
+  - first:
+      213: 8320634995432526897
+    second: Buttons&Panel_63
+  - first:
+      213: 7535911619360037168
+    second: Buttons&Panel_64
+  - first:
+      213: 6326547161326746883
+    second: Buttons&Panel_65
+  - first:
+      213: -3103581743326297194
+    second: Buttons&Panel_66
+  - first:
+      213: -2123113720245848693
+    second: Buttons&Panel_67
+  - first:
+      213: -535804631216923405
+    second: Buttons&Panel_68
+  - first:
+      213: 4272497008934828180
+    second: Buttons&Panel_69
+  - first:
+      213: 4882839979582476063
+    second: Buttons&Panel_70
+  - first:
+      213: 382587520098754578
+    second: Buttons&Panel_71
+  - first:
+      213: -7305860882356459033
+    second: Buttons&Panel_72
+  - first:
+      213: 2942196364490597862
+    second: Buttons&Panel_73
+  - first:
+      213: 871973451048690926
+    second: Buttons&Panel_74
+  - first:
+      213: -7645750539947504870
+    second: Buttons&Panel_75
+  - first:
+      213: 3803687759312274988
+    second: Buttons&Panel_76
+  - first:
+      213: 8830087867517734076
+    second: Buttons&Panel_77
+  - first:
+      213: 4162535136623534216
+    second: Buttons&Panel_78
+  - first:
+      213: -6874448920694338387
+    second: Buttons&Panel_79
+  - first:
+      213: -2043783264127145778
+    second: Buttons&Panel_80
+  - first:
+      213: -3082180464409295645
+    second: Buttons&Panel_81
+  - first:
+      213: -6485846181251665304
+    second: Buttons&Panel_82
+  - first:
+      213: 3802422791273985788
+    second: Buttons&Panel_83
+  - first:
+      213: -1407096381733612664
+    second: Buttons&Panel_84
+  - first:
+      213: -113623202229457985
+    second: Buttons&Panel_85
+  - first:
+      213: -3275482079269545014
+    second: Buttons&Panel_86
+  - first:
+      213: 5228409271748614781
+    second: Buttons&Panel_87
+  - first:
+      213: 5069905050487516399
+    second: Buttons&Panel_88
+  - first:
+      213: 8316732712004904445
+    second: Buttons&Panel_89
+  - first:
+      213: 306530679296457375
+    second: Buttons&Panel_90
+  - first:
+      213: 3921491533668642029
+    second: Buttons&Panel_91
+  - first:
+      213: -5456600973752952617
+    second: Buttons&Panel_92
+  - first:
+      213: -7354820589316500413
+    second: Buttons&Panel_93
+  - first:
+      213: -5357286234381664331
+    second: Buttons&Panel_94
+  - first:
+      213: -7964992311560409340
+    second: Buttons&Panel_95
+  - first:
+      213: -7149971057057946481
+    second: Buttons&Panel_96
+  - first:
+      213: -2671363012874277378
+    second: Buttons&Panel_97
+  - first:
+      213: -3930808695863517228
+    second: Buttons&Panel_98
+  - first:
+      213: -135254463355722892
+    second: Buttons&Panel_99
+  - first:
+      213: 4367821119515966590
+    second: Buttons&Panel_100
+  - first:
+      213: 7622454757232484314
+    second: Buttons&Panel_101
+  - first:
+      213: 464331105513721358
+    second: Buttons&Panel_102
+  - first:
+      213: 6800589982125417670
+    second: Buttons&Panel_103
+  - first:
+      213: 4773621614104886587
+    second: Buttons&Panel_104
+  - first:
+      213: -8943882622346644704
+    second: Buttons&Panel_105
+  - first:
+      213: -6655229554274621857
+    second: Buttons&Panel_106
+  - first:
+      213: 7525101996720413547
+    second: Buttons&Panel_107
+  - first:
+      213: -413197128299360901
+    second: Buttons&Panel_108
+  - first:
+      213: -836286245828941881
+    second: Buttons&Panel_109
+  - first:
+      213: 4078406367944126787
+    second: Buttons&Panel_110
+  - first:
+      213: 4030394859559292089
+    second: Buttons&Panel_111
+  - first:
+      213: 6411742890276694014
+    second: Buttons&Panel_112
+  - first:
+      213: 3720448561505271279
+    second: Buttons&Panel_113
+  - first:
+      213: -7573244455701565430
+    second: Buttons&Panel_114
+  - first:
+      213: 5061506038153808359
+    second: Buttons&Panel_115
+  - first:
+      213: -7358775682076052674
+    second: Buttons&Panel_116
+  - first:
+      213: 2463435465571061958
+    second: Buttons&Panel_117
+  - first:
+      213: -2978921895196536941
+    second: Buttons&Panel_118
+  - first:
+      213: -1752642630611472180
+    second: Buttons&Panel_119
+  - first:
+      213: -2780220640851758032
+    second: Buttons&Panel_120
+  - first:
+      213: 9170358180197247646
+    second: Buttons&Panel_121
+  - first:
+      213: -1952389682405603321
+    second: Buttons&Panel_122
+  - first:
+      213: 2058529513036660481
+    second: Buttons&Panel_123
+  - first:
+      213: 42344386777054576
+    second: Buttons&Panel_124
+  - first:
+      213: -2378553825420835990
+    second: Buttons&Panel_125
+  - first:
+      213: 8324037790291812052
+    second: Buttons&Panel_126
+  - first:
+      213: 798068472166727871
+    second: Buttons&Panel_127
+  - first:
+      213: 4455315315504208337
+    second: Buttons&Panel_128
+  - first:
+      213: -8456212458348357608
+    second: Buttons&Panel_129
+  - first:
+      213: -1329888150770515385
+    second: Buttons&Panel_130
+  - first:
+      213: -2122506179414474271
+    second: Buttons&Panel_131
+  - first:
+      213: 1045632982296233411
+    second: Buttons&Panel_132
+  - first:
+      213: -3350557360552455606
+    second: Buttons&Panel_133
+  - first:
+      213: -7844182983362778205
+    second: Buttons&Panel_134
+  - first:
+      213: 3931920308718235885
+    second: Buttons&Panel_135
+  - first:
+      213: -3646632004729187039
+    second: Buttons&Panel_136
+  - first:
+      213: -5060598753464487247
+    second: Buttons&Panel_137
+  - first:
+      213: -7641103612653817443
+    second: Buttons&Panel_138
+  - first:
+      213: -4687999018282020422
+    second: Buttons&Panel_139
+  - first:
+      213: -7681865159528577174
+    second: Buttons&Panel_140
+  - first:
+      213: 1780998610162819699
+    second: Buttons&Panel_141
+  - first:
+      213: -8073390875600384534
+    second: Buttons&Panel_142
+  - first:
+      213: -6675627097279983564
+    second: Buttons&Panel_143
+  - first:
+      213: 3296560562957210970
+    second: Buttons&Panel_144
+  - first:
+      213: 53664363712298209
+    second: Buttons&Panel_145
+  - first:
+      213: 4183521892474733664
+    second: Buttons&Panel_146
+  - first:
+      213: -4028122226913387971
+    second: Buttons&Panel_147
+  - first:
+      213: -8633980405063977382
+    second: Buttons&Panel_148
+  - first:
+      213: 5423511108702258629
+    second: Buttons&Panel_149
+  - first:
+      213: 7173592977719663377
+    second: Buttons&Panel_150
+  - first:
+      213: -450786146039844969
+    second: Buttons&Panel_151
+  - first:
+      213: -8751396219099078304
+    second: Buttons&Panel_152
+  - first:
+      213: 4050529322393992632
+    second: Buttons&Panel_153
+  - first:
+      213: -1590160475971357616
+    second: Buttons&Panel_154
+  - first:
+      213: -3020009040937965074
+    second: Buttons&Panel_155
+  - first:
+      213: 7673894274286658022
+    second: Buttons&Panel_156
+  - first:
+      213: 4280725839188370611
+    second: Buttons&Panel_157
+  - first:
+      213: 3765151839700319299
+    second: Buttons&Panel_158
+  - first:
+      213: -5180296462536298813
+    second: Buttons&Panel_159
+  - first:
+      213: 6753628325603415094
+    second: Buttons&Panel_160
+  - first:
+      213: 1603704893063462115
+    second: Buttons&Panel_161
+  - first:
+      213: -1730650432680943598
+    second: Buttons&Panel_162
+  - first:
+      213: -8952466133789605814
+    second: Buttons&Panel_163
+  - first:
+      213: -6365102657515280460
+    second: Buttons&Panel_164
+  - first:
+      213: 3677759080130718617
+    second: Buttons&Panel_165
+  - first:
+      213: 2298515563225480812
+    second: Buttons&Panel_166
+  - first:
+      213: -2916771432691590278
+    second: Buttons&Panel_167
+  - first:
+      213: 1624173416356488356
+    second: Buttons&Panel_168
+  - first:
+      213: 8170453165880033878
+    second: Buttons&Panel_169
+  - first:
+      213: -5847489172604111112
+    second: Buttons&Panel_170
+  - first:
+      213: -6932077864123381408
+    second: Buttons&Panel_171
+  - first:
+      213: -3254862012153956680
+    second: Buttons&Panel_172
+  - first:
+      213: -4307037868375665434
+    second: Buttons&Panel_173
+  - first:
+      213: 8868713534037200032
+    second: Buttons&Panel_174
+  - first:
+      213: 5831719269780937317
+    second: Buttons&Panel_175
+  - first:
+      213: -4019472433795810938
+    second: Buttons&Panel_176
+  - first:
+      213: 2838481365852053124
+    second: Buttons&Panel_177
+  - first:
+      213: 5210975061773198189
+    second: Buttons&Panel_178
+  - first:
+      213: -6062319385721101388
+    second: Buttons&Panel_179
+  - first:
+      213: 6465286876656000729
+    second: Buttons&Panel_180
+  - first:
+      213: 2512790421897267781
+    second: Buttons&Panel_181
+  - first:
+      213: 1399742999380094248
+    second: Buttons&Panel_182
+  - first:
+      213: 1175185243286994827
+    second: Buttons&Panel_183
+  - first:
+      213: 1503792942747151826
+    second: Buttons&Panel_184
+  - first:
+      213: 7707762756859450045
+    second: Buttons&Panel_185
+  - first:
+      213: -279753974004024996
+    second: Buttons&Panel_186
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buttons&Panel_0
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4820
+        width: 368
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b73af9f5815dd140800000000000000
+      internalID: 4746039218184796084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4820
+        width: 366
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeb1ad454930f330800000000000000
+      internalID: 3742554260162854636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_2
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4820
+        width: 368
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f6fe20184c1820800000000000000
+      internalID: 2890264295209629389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 4820
+        width: 368
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b1b0d332f3639f0800000000000000
+      internalID: -489134088942576775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 4617
+        width: 368
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037a4410e4a667eb0800000000000000
+      internalID: -4722470275990116560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 4617
+        width: 366
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc30111a8ea79840800000000000000
+      internalID: 5230841400229117141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_6
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 4617
+        width: 368
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa6da64ce6bdc320800000000000000
+      internalID: 2579919287467469555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 4617
+        width: 369
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882e1be0056c71850800000000000000
+      internalID: 6347760246948225672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 4415
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ee3c587db224730800000000000000
+      internalID: 3981793225211112987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 4415
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066e5ba0a5327130800000000000000
+      internalID: 3562969219389613576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 4415
+        width: 180
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3fb5585769d080800000000000000
+      internalID: -9162178337815183984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_11
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 4415
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad7b997f1f68c8c0800000000000000
+      internalID: -3978808089806930516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_12
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 4415
+        width: 180
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cbf6bd7a4e5e990800000000000000
+      internalID: -7357223006647632833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4195
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddc92be9d3081b70800000000000000
+      internalID: 8869843700594363867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d805bba4187e1bfd0800000000000000
+      internalID: -2327824989883248499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_15
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7646e205db175d0800000000000000
+      internalID: -3066461719189231679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_16
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659331d1e38c7a880800000000000000
+      internalID: -8599684794339346090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_17
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 4195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee739c38a495420800000000000000
+      internalID: 2619206588169711354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_18
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 4195
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd86e6422113cfc60800000000000000
+      internalID: 7853205804217690332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_19
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 4195
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a28c58fac82aba0800000000000000
+      internalID: -6079141861505095089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_20
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 4195
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a12c9e63791a9ed0800000000000000
+      internalID: -2406583067308449376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3982
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e913c1a7ee3a230800000000000000
+      internalID: 3649022331326668420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3982
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a35a6d1992bb9e0800000000000000
+      internalID: -1604643135879300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_23
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3982
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae041ab71475bdea0800000000000000
+      internalID: -5846983752451800854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_24
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3982
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fc0b6f45c7d0110800000000000000
+      internalID: 1228774977699893149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_25
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3992
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299172c5fda3ecf0800000000000000
+      internalID: -224144285397575386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_26
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3992
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe211e449e26d1de0800000000000000
+      internalID: -1360822758373518609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_27
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3992
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8555535f44e720800000000000000
+      internalID: 2874509681501768847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_28
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3992
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02841a00d7fa8a70800000000000000
+      internalID: 8830142492307653133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3780
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d60ec7f7dd0f9c0800000000000000
+      internalID: -3895370138049811041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3780
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1584dc1d984e70800000000000000
+      internalID: 9099695794252226000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3780
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f963d351647f1ae90800000000000000
+      internalID: -7016054864090417505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3780
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cd8dcb586bcd400800000000000000
+      internalID: 350355556543290436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_33
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3785
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6bb581ad34f24e0800000000000000
+      internalID: -2004308705165986074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_34
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3785
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1f8e4e413480970800000000000000
+      internalID: 8721294435421843898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_35
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3785
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5420aacc3e36a60800000000000000
+      internalID: 7666221458879825345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_36
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3785
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b84d0748cf1e660800000000000000
+      internalID: 7413484107387407113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3585
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3016ab25db041c570800000000000000
+      internalID: 8485134354823667971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_38
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3585
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883915ec803b7bd0800000000000000
+      internalID: -2631456175570732914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_39
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3585
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17777a751d36df0800000000000000
+      internalID: -188076585017445952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3585
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b64181b83d16d1f0800000000000000
+      internalID: -1020596136219425101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_41
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3587
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc6f4aaeaed177b0800000000000000
+      internalID: -5228152850637427507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_42
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3587
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb8ec4ef996eea0800000000000000
+      internalID: -5843814148975575103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_43
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3587
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc49c792a02f3f390800000000000000
+      internalID: -7785613205333830453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_44
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3587
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f93137f2a3fd950800000000000000
+      internalID: 6475958764650602262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3389
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb31b9d48020eb810800000000000000
+      internalID: 1782864737170297790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3389
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4584e659c0337ece0800000000000000
+      internalID: -1376075031998740396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_47
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3389
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fbbf49ba15ec730800000000000000
+      internalID: 4021241314669215508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_48
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3389
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5fb4f1547aa1590800000000000000
+      internalID: -7702660297344158244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_49
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3392
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbef7e707a7d85780800000000000000
+      internalID: -8693961968246587716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_50
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3392
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d735f681a6da2c0800000000000000
+      internalID: -4418759006201086711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_51
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3392
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44295e64763cff800800000000000000
+      internalID: 648451719703138884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_52
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3392
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b69a03d799e2160800000000000000
+      internalID: 7002703233574071043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3188
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27479a70a14ba9420800000000000000
+      internalID: 2637618555669542002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_54
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3188
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb04b193259fbd600800000000000000
+      internalID: 494262715667923131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_55
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3188
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c4c467e16c844b0800000000000000
+      internalID: -5455893114423325602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_56
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3188
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04fc7500f4f2990800000000000000
+      internalID: -7408615999109381925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_57
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3187
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d527798e7b5a7b680800000000000000
+      internalID: -8739334342589320611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_58
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 3187
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83425eb113478240800000000000000
+      internalID: 4793874071845749643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_59
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 3187
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46eb3b2c1d5c3cf0800000000000000
+      internalID: -271239501983259059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_60
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 3187
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faec40fdb1b405850800000000000000
+      internalID: 6363668856552345263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2992
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c026e911c516c0800000000000000
+      internalID: -4173217162709645656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_62
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2992
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887514acb2b00bbe0800000000000000
+      internalID: -1463657596190632056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2992
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13490789175d87370800000000000000
+      internalID: 8320634995432526897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_64
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2992
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03991bad0bfe49860800000000000000
+      internalID: 7535911619360037168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_65
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2994
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30df2adaf196cc750800000000000000
+      internalID: 6326547161326746883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_66
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2994
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69306a119dcdde4d0800000000000000
+      internalID: -3103581743326297194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_67
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2994
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85fcf6f15f2982e0800000000000000
+      internalID: -2123113720245848693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_68
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2994
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5e47d6807098f0800000000000000
+      internalID: -535804631216923405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2799
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498ba799465fa4b30800000000000000
+      internalID: 4272497008934828180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fc61e471553c340800000000000000
+      internalID: 4882839979582476063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_71
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ebfe82593f4500800000000000000
+      internalID: 382587520098754578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_72
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9a8b05c3e5c9a90800000000000000
+      internalID: -7305860882356459033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_73
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2799
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e568ec4108c4d820800000000000000
+      internalID: 2942196364490597862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_74
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2799
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4245bdb3fd91c00800000000000000
+      internalID: 871973451048690926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_75
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2799
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8d219466d4e590800000000000000
+      internalID: -7645750539947504870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_76
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2799
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c264f424dd969c430800000000000000
+      internalID: 3803687759312274988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2589
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc81e6b126ca8a70800000000000000
+      internalID: 8830087867517734076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_78
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2589
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880278717ab44c930800000000000000
+      internalID: 4162535136623534216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_79
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2589
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac4277012d0990a0800000000000000
+      internalID: -6874448920694338387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_80
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2589
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec820df13f503a3e0800000000000000
+      internalID: -2043783264127145778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_81
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2593
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e44c3d9235e935d0800000000000000
+      internalID: -3082180464409295645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_82
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2593
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862bbaaf245adf5a0800000000000000
+      internalID: -6485846181251665304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_83
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2593
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf63cbfe16be4c430800000000000000
+      internalID: 3802422791273985788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_84
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2593
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d702cb4df87ce0800000000000000
+      internalID: -1407096381733612664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2396
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbeed0bc445c6ef0800000000000000
+      internalID: -113623202229457985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_86
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2396
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb1bf437662b82d0800000000000000
+      internalID: -3275482079269545014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_87
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2396
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a5fe6088a0f8840800000000000000
+      internalID: 5228409271748614781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_88
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2396
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec644b28cbeb5640800000000000000
+      internalID: 5069905050487516399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_89
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2396
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df56cee6658fa6370800000000000000
+      internalID: 8316732712004904445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_90
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2396
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a793c5704014400800000000000000
+      internalID: 306530679296457375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_91
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2396
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec650ed5cfeb6630800000000000000
+      internalID: 3921491533668642029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_92
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2396
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8976e13524644b0800000000000000
+      internalID: -5456600973752952617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2203
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3449f0b34ad6ee990800000000000000
+      internalID: -7354820589316500413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf379fcd8817a5b0800000000000000
+      internalID: -5357286234381664331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_95
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f69b661b9a67190800000000000000
+      internalID: -7964992311560409340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_96
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84acbda43336cc90800000000000000
+      internalID: -7149971057057946481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_97
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2203
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde2874e796dead0800000000000000
+      internalID: -2671363012874277378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_98
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2203
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfd9034156f279c0800000000000000
+      internalID: -3930808695863517228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_99
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2203
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473656d38ca7f1ef0800000000000000
+      internalID: -135254463355722892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_100
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2203
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cb23f9a2e9d9c30800000000000000
+      internalID: 4367821119515966590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2005
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf1459573668c960800000000000000
+      internalID: 7622454757232484314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_102
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e4f4a2ea2a17600800000000000000
+      internalID: 464331105513721358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_103
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46aa3ce8c806e50800000000000000
+      internalID: 6800589982125417670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_104
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d39d8f09f4f3240800000000000000
+      internalID: 4773621614104886587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_105
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2005
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233d364422f0e380800000000000000
+      internalID: -8943882622346644704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_106
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2005
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56a7c63bffd3a3a0800000000000000
+      internalID: -6655229554274621857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_107
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 2005
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b5a1575688e6860800000000000000
+      internalID: 7525101996720413547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_108
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 2005
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d4189a667044af0800000000000000
+      internalID: -413197128299360901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c722da171ae464f0800000000000000
+      internalID: -836286245828941881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_110
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1800
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341300bbbf8699830800000000000000
+      internalID: 4078406367944126787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_111
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1800
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc879455c6dee730800000000000000
+      internalID: 4030394859559292089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_112
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1800
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7241610361bf850800000000000000
+      internalID: 6411742890276694014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_113
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1808
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed72a14140b1a330800000000000000
+      internalID: 3720448561505271279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_114
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1808
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0036b4da4e66e690800000000000000
+      internalID: -7573244455701565430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_115
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1808
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e907a8bce41e3640800000000000000
+      internalID: 5061506038153808359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_116
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1808
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33f210718060e990800000000000000
+      internalID: -7358775682076052674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0567c0181ef2220800000000000000
+      internalID: 2463435465571061958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_118
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1598
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f4d2fb15eb8a6d0800000000000000
+      internalID: -2978921895196536941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_119
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1598
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0723830dc5da7e0800000000000000
+      internalID: -1752642630611472180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_120
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1598
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03472d0be0caa69d0800000000000000
+      internalID: -2780220640851758032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_121
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1598
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a21c1ad28a34f70800000000000000
+      internalID: 9170358180197247646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_122
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1598
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70883159de7b7e4e0800000000000000
+      internalID: -1952389682405603321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_123
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1598
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f35308fad519c10800000000000000
+      internalID: 2058529513036660481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_124
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1598
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df314deff669000800000000000000
+      internalID: 42344386777054576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1397
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305acd5edadfed0800000000000000
+      internalID: -2378553825420835990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_126
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1397
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de5543844ce48370800000000000000
+      internalID: 8324037790291812052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_127
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1397
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0cfed0c0f431b00800000000000000
+      internalID: 798068472166727871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_128
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1397
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95cf69ca574dd30800000000000000
+      internalID: 4455315315504208337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_129
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1395
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d9e2729f75aa80800000000000000
+      internalID: -8456212458348357608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_130
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1395
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742825ed5c94b8de0800000000000000
+      internalID: -1329888150770515385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_131
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1395
+        width: 181
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1cd6610e75b82e0800000000000000
+      internalID: -2122506179414474271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_132
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1395
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5033b48a5d28e00800000000000000
+      internalID: 1045632982296233411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1195
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4253b425dd6081d0800000000000000
+      internalID: -3350557360552455606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_134
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1195
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6f7b032dd32390800000000000000
+      internalID: -7844182983362778205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_135
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1195
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de07b4640bcf09630800000000000000
+      internalID: 3931920308718235885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_136
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1195
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125db8b238f846dc0800000000000000
+      internalID: -3646632004729187039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_137
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1195
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2f6f4fe3425c9b0800000000000000
+      internalID: -5060598753464487247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_138
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1195
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b0d3afb855f590800000000000000
+      internalID: -7641103612653817443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_139
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1195
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab19bef1bb1e0feb0800000000000000
+      internalID: -4687999018282020422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_140
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1195
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6789d17658846590800000000000000
+      internalID: -7681865159528577174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3722830ccc067b810800000000000000
+      internalID: 1780998610162819699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_142
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 996
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed85f6f5cd85ff80800000000000000
+      internalID: -8073390875600384534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_143
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 996
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43097a526886b53a0800000000000000
+      internalID: -6675627097279983564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_144
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 996
+        width: 183
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5550a7bd5cbfbd20800000000000000
+      internalID: 3296560562957210970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_145
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 997
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec3b285477aeb000800000000000000
+      internalID: 53664363712298209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_146
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 997
+        width: 182
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064c607fefade0a30800000000000000
+      internalID: 4183521892474733664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_147
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 997
+        width: 181
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ad8f03d2c3918c0800000000000000
+      internalID: -4028122226913387971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_148
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 997
+        width: 179
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a567a7ef090fd2880800000000000000
+      internalID: -8633980405063977382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5459d4e9e244b40800000000000000
+      internalID: 5423511108702258629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_150
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b97305ec8bd8360800000000000000
+      internalID: 7173592977719663377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_151
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fa0a7736c7eb9f0800000000000000
+      internalID: -450786146039844969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_152
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06127ef618bcc8680800000000000000
+      internalID: -8751396219099078304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_153
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 802
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf89545fe563830800000000000000
+      internalID: 4050529322393992632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_154
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 802
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0547cddd87d9ee9e0800000000000000
+      internalID: -1590160475971357616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_155
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 802
+        width: 181
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9ac6827c5c616d0800000000000000
+      internalID: -3020009040937965074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_156
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 802
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1a2c63f262f7a60800000000000000
+      internalID: 7673894274286658022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4a8a17871386b30800000000000000
+      internalID: 4280725839188370611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_158
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 592
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cfeba46a1804430800000000000000
+      internalID: 3765151839700319299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_159
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 592
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceaf4f40d3eb18b0800000000000000
+      internalID: -5180296462536298813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_160
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 592
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6349b9c0e25b9bd50800000000000000
+      internalID: 6753628325603415094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_161
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 590
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec7a9b7a11814610800000000000000
+      internalID: 1603704893063462115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_162
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 590
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102da1d99e7bf7e0800000000000000
+      internalID: -1730650432680943598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_163
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 590
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4081c7cb7372c380800000000000000
+      internalID: -8952466133789605814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_164
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 590
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b728e35bdc9aa7a0800000000000000
+      internalID: -6365102657515280460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ba8a4d5660a0330800000000000000
+      internalID: 3677759080130718617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_166
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 387
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ef2c80ab7f5ef10800000000000000
+      internalID: 2298515563225480812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_167
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 387
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b196fe5db8587d0800000000000000
+      internalID: -2916771432691590278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_168
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 387
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4af8fed193a8610800000000000000
+      internalID: 1624173416356488356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_169
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 397
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652ce3e8dd7436170800000000000000
+      internalID: 8170453165880033878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_170
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 397
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f63dfe249b89dea0800000000000000
+      internalID: -5847489172604111112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_171
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 397
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069c39909ef4ccf90800000000000000
+      internalID: -6932077864123381408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_172
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 397
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b676a4be3864d2d0800000000000000
+      internalID: -3254862012153956680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 179
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4105dd0e35a34c0800000000000000
+      internalID: -4307037868375665434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_174
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 194
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac8cf288fff31b70800000000000000
+      internalID: 8868713534037200032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_175
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 194
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ad71137cd6ee050800000000000000
+      internalID: 5831719269780937317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_176
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 194
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68930271e17f738c0800000000000000
+      internalID: -4019472433795810938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_177
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 197
+        width: 183
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e5d2963cf446720800000000000000
+      internalID: 2838481365852053124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_178
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 197
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d632962b53a115840800000000000000
+      internalID: 5210975061773198189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_179
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 197
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3212363a05edba0800000000000000
+      internalID: -6062319385721101388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_180
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 197
+        width: 179
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5316e82059b950800000000000000
+      internalID: 6465286876656000729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_181
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac03c43993fd220800000000000000
+      internalID: 2512790421897267781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_182
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 376
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82de3ee77d2ec6310800000000000000
+      internalID: 1399742999380094248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_183
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 183
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff66b90c81f4010800000000000000
+      internalID: 1175185243286994827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_184
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 0
+        width: 183
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddee28c6bb8ed410800000000000000
+      internalID: 1503792942747151826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_185
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 0
+        width: 374
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2d79fc36977fa60800000000000000
+      internalID: 7707762756859450045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buttons&Panel_186
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 0
+        width: 179
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c597cfa2e3d1e1cf0800000000000000
+      internalID: -279753974004024996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7cf979ac8e2ca8d4d815a9796555ac14
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
