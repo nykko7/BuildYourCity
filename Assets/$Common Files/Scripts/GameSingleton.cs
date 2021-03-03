@@ -5,21 +5,21 @@ using UnityEngine.UI;
 
 public class GameSingleton : MonoBehaviour
 {
-    public static GameSingleton Instance { get; private set; }    
-       
-    public int id_usuario;
-    public string id_sesion;
+  public static GameSingleton Instance { get; private set; }
 
-    public int money = 1200;
-    public string time;
-    
-    internal static object instance = default;   
+  public int id_usuario;
+  public string id_sesion;
 
-    private void Awake()
-    {
-        if (Instance == null) Instance = this;
-        else if (Instance != this) Destroy(gameObject);
-        DontDestroyOnLoad(gameObject);
-    }
+  public int money = 1200;
+  public string time;
+
+  internal static object instance = default;
+
+  private void Awake()
+  {
+    if (Instance == null) Instance = this;
+    else if (Instance != this) Destroy(gameObject);
+    DontDestroyOnLoad(gameObject);
+  }
 
 }

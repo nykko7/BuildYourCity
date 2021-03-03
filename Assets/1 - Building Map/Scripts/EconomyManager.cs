@@ -4,24 +4,28 @@ using UnityEngine;
 
 public class EconomyManager : MonoBehaviour
 {
-    private static EconomyManager _instance;
+  private static EconomyManager _instance;
 
-    public int totalMoney = 1200;
+  public int totalMoney = 1200;
 
-    public static EconomyManager Instance{
-        get{
-            if(_instance == null){
-                GameObject obj = new GameObject("EconomyManager");
-                obj.AddComponent<EconomyManager>();
-            }
-            return _instance;
-        }
+  public static EconomyManager Instance
+  {
+    get
+    {
+      if (_instance == null)
+      {
+        GameObject obj = new GameObject("EconomyManager");
+        obj.AddComponent<EconomyManager>();
+      }
+      return _instance;
     }
+  }
 
-    private void Awake() {
-        _instance = this;
-        DontDestroyOnLoad(gameObject);
-    }
+  private void Awake()
+  {
+    _instance = this;
+    DontDestroyOnLoad(gameObject);
+  }
 
-    
+
 }

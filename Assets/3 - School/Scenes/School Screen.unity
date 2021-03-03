@@ -6258,7 +6258,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: asdasd?
+  m_text: Andrea?
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ec00677f06a3d524daf85e68ed6ca32e, type: 2}
   m_sharedMaterial: {fileID: 2090474582676790342, guid: ec00677f06a3d524daf85e68ed6ca32e,
